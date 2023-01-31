@@ -1,4 +1,3 @@
-import logging
 import telebot 
 from telebot import types
 
