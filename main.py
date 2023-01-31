@@ -55,11 +55,6 @@ def send_game_message(message): #msg
 # ---------------------------------------
 
 
-
-
-
-# ---------------------------------------
-
 #make bot listen 
 bot.polling()
 
